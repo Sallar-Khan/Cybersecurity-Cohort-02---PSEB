@@ -22,8 +22,8 @@ assignment doubles as portfolio-grade practice rather than throwaway coursework.
 
 | Path | What's inside |
 |------|---------------|
-| [`Day-03-Vulnerability-Assessment/`](Day-03-Vulnerability-Assessment/) | Full VA/PT report against Metasploitable2 — service enumeration through exploitation and remediation, with 16 evidence screenshots. |
-| [`Day-04-Client-Side-Attacks/`](Day-04-Client-Side-Attacks/) | Client-side attacks module — malware family classification, a payload generated and caught end-to-end in the lab, and a career direction statement. |
+| [`s07-report/`](s07-report/) | Full VA/PT report against Metasploitable2 — service enumeration through exploitation and remediation, with 16 evidence screenshots. |
+| [`s08-client-side/`](s08-client-side/) | Client-side attacks module — malware family classification, a payload generated and caught end-to-end in the lab, and a career direction statement. |
 | [`course-handouts/`](course-handouts/) | The official DFCS Day 3 and Day 4 reference handouts (PDF). |
 
 Each day's folder contains a `README.md` summary, the report in both **`.docx`** (authoritative)
@@ -41,7 +41,7 @@ of concept and remediation:
 - Written in standard VA/PT report format: executive summary, scope, per-finding PoC,
   prioritised remediation, references, and a raw-scan appendix.
 
-➡️ [Read the Day 3 summary](Day-03-Vulnerability-Assessment/README.md)
+➡️ [Read the Day 3 summary](s07-report/README.md)
 
 ### Day 4 — Client-Side Attacks
 The client-side attacks module, covering how malware reaches and runs on an endpoint:
@@ -53,7 +53,7 @@ The client-side attacks module, covering how malware reaches and runs on an endp
 - **Career statement** — specialism, certification roadmap (eJPT → OSCP), and a 3-month
   portfolio plan.
 
-➡️ [Read the Day 4 summary](Day-04-Client-Side-Attacks/README.md)
+➡️ [Read the Day 4 summary](s08-client-side/README.md)
 
 ## 🎯 Focus & roadmap
 
