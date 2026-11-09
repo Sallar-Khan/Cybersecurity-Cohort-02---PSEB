@@ -1,0 +1,17 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+.*.swp
+.vscode/
+.idea/
+
+# Office temp / lock files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+.~lock.*#
+
+# Temp conversion artefacts
+*.tmp
