@@ -24,8 +24,8 @@ assignment doubles as portfolio-grade practice rather than throwaway coursework.
 |------|---------------|
 | [`s07-report/`](s07-report/) | Full VA/PT report against Metasploitable2 — service enumeration through exploitation and remediation, with 16 evidence screenshots. |
 | [`s08-client-side/`](s08-client-side/) | Client-side attacks module — malware family classification, a payload generated and caught end-to-end in the lab, and a career direction statement. |
-| [`s09-web-recon/`](s09-web-recon/) | Web application recon & scanning — scope/RoE, Google-dork exposures, subdomain reconciliation, and a ZAP-vs-Burp scanner comparison. |
-| [`s10-recon-and-upload/`](s10-recon-and-upload/) | Recon workflow & file-upload exploitation — a 10-step recon process and DVWA file upload through all four security levels (13 screenshots). |
+| [`day5-web-recon/`](day5-web-recon/) | Web application recon & scanning — scope/RoE, Google-dork exposures, subdomain reconciliation, and a ZAP-vs-Burp scanner comparison. |
+| [`s09-recon-and-upload/`](s09-recon-and-upload/) | Recon workflow & file-upload exploitation — a 10-step recon process and DVWA file upload through all four security levels (13 screenshots). |
 | [`course-handouts/`](course-handouts/) | The official DFCS Day 3–6 reference handouts. |
 
 Each day's folder contains a `README.md` summary, the report in both **`.docx`** (authoritative)
@@ -68,7 +68,7 @@ A four-part assignment on the reconnaissance and scanning phase of a web engagem
   list, with per-tool analysis.
 - **Scanner comparison** — OWASP ZAP vs Burp Suite Professional against Mutillidae.
 
-➡️ [Read the Day 5 summary](s09-web-recon/README.md)
+➡️ [Read the Day 5 summary](day5-web-recon/README.md)
 
 ### Day 6 — Recon Workflow & File Upload Exploitation
 A three-part assignment on reconnaissance method and a full upload-to-RCE exploitation chain:
@@ -79,7 +79,7 @@ A three-part assignment on reconnaissance method and a full upload-to-RCE exploi
   including a Burp `Content-Type` bypass and a Kali-built JPEG polyglot, with 13 screenshots.
 - **Remediation brief** — a one-page, jargon-free write-up for a non-technical manager.
 
-➡️ [Read the Day 6 summary](s10-recon-and-upload/README.md)
+➡️ [Read the Day 6 summary](s09-recon-and-upload/README.md)
 
 ## 🎯 Focus & roadmap
 
