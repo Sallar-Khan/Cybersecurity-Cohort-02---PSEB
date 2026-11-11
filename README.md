@@ -24,7 +24,8 @@ assignment doubles as portfolio-grade practice rather than throwaway coursework.
 |------|---------------|
 | [`s07-report/`](s07-report/) | Full VA/PT report against Metasploitable2 — service enumeration through exploitation and remediation, with 16 evidence screenshots. |
 | [`s08-client-side/`](s08-client-side/) | Client-side attacks module — malware family classification, a payload generated and caught end-to-end in the lab, and a career direction statement. |
-| [`course-handouts/`](course-handouts/) | The official DFCS Day 3 and Day 4 reference handouts (PDF). |
+| [`s09-web-recon/`](s09-web-recon/) | Web application recon & scanning — scope/RoE, Google-dork exposures, subdomain reconciliation, and a ZAP-vs-Burp scanner comparison. |
+| [`course-handouts/`](course-handouts/) | The official DFCS Day 3, 4 and 5 reference handouts (PDF). |
 
 Each day's folder contains a `README.md` summary, the report in both **`.docx`** (authoritative)
 and **`.pdf`** (renders inline on GitHub) form, and an `evidence/` folder of screenshots.
@@ -54,6 +55,19 @@ The client-side attacks module, covering how malware reaches and runs on an endp
   portfolio plan.
 
 ➡️ [Read the Day 4 summary](s08-client-side/README.md)
+
+### Day 5 — Web Application Recon & Scanning
+A four-part assignment on the reconnaissance and scanning phase of a web engagement:
+
+- **Scope & Rules of Engagement** — a full RoE for a hypothetical `*.intel.com` assessment,
+  including exclusions, a break-glass clause, and an emergency procedure.
+- **Dork report** — six exposures surfaced with Google operators, Wayback CDX, and GitHub
+  code search, each with its fix.
+- **Subdomain reconciliation** — subfinder, amass, and crt.sh merged into one deduplicated
+  list, with per-tool analysis.
+- **Scanner comparison** — OWASP ZAP vs Burp Suite Professional against Mutillidae.
+
+➡️ [Read the Day 5 summary](s09-web-recon/README.md)
 
 ## 🎯 Focus & roadmap
 
